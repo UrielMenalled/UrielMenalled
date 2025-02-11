@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @UrielMenalled
-- 👀 I’m interested in agroecology, community ecology, and R
+- Hi, I’m @UrielMenalled
+- I’m interested in agroecology, community ecology, and R
 
 <!---
 UrielMenalled/UrielMenalled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
