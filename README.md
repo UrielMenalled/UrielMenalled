@@ -1,4 +1,4 @@
-- Hi, I’m @UrielMenalled
+- Hi, I’m Uriel
 - I’m interested in agroecology, community ecology, and R
 
 <!---
